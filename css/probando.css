@@ -1,0 +1,13 @@
+body {
+    font-family:'Inconsolata', monospace;
+}
+
+.first line {
+    display: inline-block;
+    position: relative;		
+  }
+  
+.second line {
+    display: inline-block;
+    position: relative;
+}
