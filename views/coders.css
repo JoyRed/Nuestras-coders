@@ -1,0 +1,16 @@
+header {
+    font-size:30px;
+}
+
+body {
+    font-family: 'Special Elite', cursive;
+}
+
+hr {
+    border:solid 1px;
+    margin:0;
+}
+
+.first line{
+    position:relative;
+}
